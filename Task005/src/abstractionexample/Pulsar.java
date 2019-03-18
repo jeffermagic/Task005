@@ -1,7 +1,9 @@
 package abstractionexample;
+//abstract class
 abstract class Bike{  
 	  abstract void run();  
 	}  
+//main class pulsar
 
  class Pulsar extends Bike {
 
